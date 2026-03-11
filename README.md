@@ -163,8 +163,3 @@ python scripts/differential_expression.py
 Rscript scripts/annotate_genes.R
 ```
 
-## Author
-
-**Ioanna Kiourti**
-MSc Bioinformatics & Computational Biology
-[GitHub](https://github.com/Ioannakiou)
