@@ -1,0 +1,25 @@
+# Python environment
+rnaseq_env/
+
+# Large data files
+data/*
+!data/.gitkeep
+*.fastq
+*.fastq.gz
+
+# Reference files
+reference/*
+!reference/.gitkeep
+
+# Salmon output (large)
+results/SRR1039508/
+results/SRR1039509/
+results/SRR1039512/
+results/SRR1039513/
+
+# Temp files
+*.gz
+*.tmp
+__pycache__/
+.ipynb_checkpoints/
+fasterq.tmp*/
